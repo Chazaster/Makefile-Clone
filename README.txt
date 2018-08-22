@@ -5,4 +5,4 @@ To run the program:
    2. $touch <filename>
    3. $./make.x Makefile
 If you do not touch a file, a message saying all files are up to date will print
-- Chase Watson
+
